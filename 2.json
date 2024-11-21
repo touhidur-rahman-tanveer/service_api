@@ -1,0 +1,27 @@
+ {
+    "id": 2,
+    "service_name": "Education Counseling",
+    "description": "Our Education Counseling service is tailored to help students and professionals navigate their academic and skill-building journeys. We assist in identifying the right degree programs, certifications, and learning pathways based on your career goals and interests. This service is ideal for those aiming for higher education, skill upskilling, or transitioning to a new academic discipline. Additionally, we provide support for choosing institutions, understanding admission criteria, and preparing a strong application.",
+    "features": [
+      "Degree and Program Selection",
+      "Guidance on Certifications and Online Courses",
+      "Higher Education Opportunities",
+      "Admission Application Support"
+    ],
+    "categories": [
+      "Academic Guidance",
+      "Skill Development",
+      "Higher Education"
+    ],
+    "benefits": [
+      "Discover programs that align with your career goals.",
+      "Learn about scholarships and funding opportunities.",
+      "Receive expert advice on preparing a strong application."
+    ],
+    "counselor_name": "Robert Brown",
+    "counselor_id": "EC-002",
+    "counselor_contact": "+1-800-222-3333",
+    "service_price_range": "$75 - $150 per session",
+    "service_duration": "1 hour",
+    "service_img": "https://i.ibb.co/R2LR0QQ/coaching-3.jpg"
+  }
