@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "service_name": "Career Planning Services",
+    "description": "Helping individuals set clear career goals and create actionable plans to achieve them.",
+    "features": [
+      "Skill Assessment and Profiling",
+      "Short-Term vs. Long-Term Career Planning",
+      "Goal Setting and Strategy Development"
+    ],
+    "counselor_name": "Alice Johnson",
+    "counselor_id": "CP-001",
+    "counselor_contact": "+1-800-111-2222",
+    "service_price_range": "$50 - $100 per session",
+    "service_duration": "1-2 hours",
+    "service_img": "https://i.ibb.co.com/XjZRzMR/coaching-1.jpg"
+  },
+  {
+    "id": 2,
+    "service_name": "Education Counseling",
+    "description": "Providing guidance to students in choosing the right degree, certifications, and learning paths.",
+    "features": [
+      "Degree and Program Selection",
+      "Guidance on Certifications",
+      "Higher Education Opportunities"
+    ],
+    "counselor_name": "Robert Brown",
+    "counselor_id": "EC-002",
+    "counselor_contact": "+1-800-222-3333",
+    "service_price_range": "$75 - $150 per session",
+    "service_duration": "1 hour",
+    "service_img": "https://i.ibb.co.com/R2LR0QQ/coaching-3.jpg"
+  },
+  {
+    "id": 3,
+    "service_name": "Job Search Assistance",
+    "description": "Supporting job seekers with tools and techniques to land their dream job.",
+    "features": [
+      "Resume and Cover Letter Writing",
+      "LinkedIn Optimization",
+      "Interview Preparation and Mock Interviews"
+    ],
+    "counselor_name": "Sophia White",
+    "counselor_id": "JSA-003",
+    "counselor_contact": "+1-800-333-4444",
+    "service_price_range": "$100 - $200 per session",
+    "service_duration": "2-3 hours",
+    "service_img": "https://i.ibb.co.com/pj0SNcG/visa-14-370x300.jpg"
+  },
+  {
+    "id": 4,
+    "service_name": "Study Abroad and Visa Counseling",
+    "description": "Helping students and professionals explore international study and career opportunities.",
+    "features": [
+      "Choosing Study Destinations",
+      "Visa Application Guidance",
+      "Scholarship Assistance"
+    ],
+    "counselor_name": "Emma Davis",
+    "counselor_id": "SAV-004",
+    "counselor_contact": "+1-800-444-5555",
+    "service_price_range": "$150 - $300",
+    "service_duration": "Varies by case",
+    "service_img": "https://i.ibb.co.com/fGpgGfW/visa-16-370x300.jpg"
+  },
+  {
+    "id": 5,
+    "service_name": "Freelancing and Gig Economy Counseling",
+    "description": "Guiding individuals on how to start and grow a career as a freelancer or gig worker.",
+    "features": [
+      "How to Start Freelancing",
+      "Finding Clients and Managing Contracts",
+      "Building a Personal Brand"
+    ],
+    "counselor_name": "Lucas Taylor",
+    "counselor_id": "FGC-005",
+    "counselor_contact": "+1-800-555-6666",
+    "service_price_range": "$50 - $120 per session",
+    "service_duration": "1-2 hours",
+    "service_img": "https://i.ibb.co.com/sRBzdWp/coaching-2.jpg"
+  },
+  {
+    "id": 6,
+    "service_name": "Professional Development",
+    "description": "Training individuals to develop leadership, communication, and technical skills for career growth.",
+    "features": [
+      "Leadership Training",
+      "Soft Skills Development",
+      "Technical Skill Upskilling"
+    ],
+    "counselor_name": "Olivia Green",
+    "counselor_id": "PD-006",
+    "counselor_contact": "+1-800-666-7777",
+    "service_price_range": "$100 - $250 per workshop",
+    "service_duration": "3-4 hours",
+    "service_img": "https://i.ibb.co.com/ZBhynq6/visa-15-370x300.jpg"
+  },
+]
