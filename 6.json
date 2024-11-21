@@ -1,0 +1,27 @@
+ {
+    "id": 6,
+    "service_name": "Professional Development",
+    "description": "Our Professional Development service is designed to equip individuals with essential skills for career advancement. We offer comprehensive training in leadership, communication, and technical expertise, helping you stay competitive in your field. Whether you're aiming for a managerial position or improving your interpersonal skills, this service covers it all. Our interactive workshops and one-on-one sessions ensure you gain practical, actionable knowledge.",
+    "features": [
+      "Leadership Training",
+      "Soft Skills Development",
+      "Technical Skill Upskilling",
+      "Networking and Collaboration Skills"
+    ],
+    "categories": [
+      "Leadership Development",
+      "Skill Enhancement",
+      "Workplace Success"
+    ],
+    "benefits": [
+      "Boost your career growth and workplace effectiveness.",
+      "Gain confidence in handling professional challenges.",
+      "Develop skills that are in demand across industries."
+    ],
+    "counselor_name": "Olivia Green",
+    "counselor_id": "PD-006",
+    "counselor_contact": "+1-800-666-7777",
+    "service_price_range": "$100 - $250 per workshop",
+    "service_duration": "3-4 hours",
+    "service_img": "https://i.ibb.co/ZBhynq6/visa-15-370x300.jpg"
+  }
