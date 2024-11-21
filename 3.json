@@ -1,0 +1,27 @@
+{
+    "id": 3,
+    "service_name": "Job Search Assistance",
+    "description": "Our Job Search Assistance program equips job seekers with the tools and strategies needed to stand out in a competitive job market. We provide hands-on support with resume building, cover letter writing, LinkedIn profile optimization, and interview preparation. Whether you're a recent graduate or an experienced professional, our service ensures you're well-prepared to secure your dream job. Additionally, we offer mock interviews and feedback sessions to build your confidence and readiness for real-world interviews.",
+    "features": [
+      "Resume and Cover Letter Writing",
+      "LinkedIn Profile Optimization",
+      "Interview Preparation and Mock Interviews",
+      "Job Market Trend Analysis"
+    ],
+    "categories": [
+      "Job Search Strategies",
+      "Professional Branding",
+      "Interview Skills"
+    ],
+    "benefits": [
+      "Improve your chances of landing a job quickly.",
+      "Receive guidance on building a professional brand.",
+      "Practice and refine interview skills with experts."
+    ],
+    "counselor_name": "Sophia White",
+    "counselor_id": "JSA-003",
+    "counselor_contact": "+1-800-333-4444",
+    "service_price_range": "$100 - $200 per session",
+    "service_duration": "2-3 hours",
+    "service_img": "https://i.ibb.co/pj0SNcG/visa-14-370x300.jpg"
+  }
