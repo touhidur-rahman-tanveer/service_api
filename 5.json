@@ -1,0 +1,27 @@
+{
+    "id": 5,
+    "service_name": "Freelancing and Gig Economy Counseling",
+    "description": "Our Freelancing and Gig Economy Counseling service empowers individuals to thrive in the rapidly growing freelance market. Whether you're just starting as a freelancer or looking to scale your existing business, we provide actionable advice on finding clients, managing projects, and building a personal brand. This service includes strategies for effective communication, pricing your services, and navigating online platforms like Upwork and Fiverr.",
+    "features": [
+      "Getting Started with Freelancing",
+      "Finding Clients and Managing Contracts",
+      "Building a Personal Brand",
+      "Optimizing Profiles on Freelance Platforms"
+    ],
+    "categories": [
+      "Freelance Success",
+      "Gig Economy Growth",
+      "Entrepreneurship"
+    ],
+    "benefits": [
+      "Learn how to start and grow a successful freelance career.",
+      "Develop a steady stream of clients and projects.",
+      "Build a sustainable income as an independent professional."
+    ],
+    "counselor_name": "Lucas Taylor",
+    "counselor_id": "FGC-005",
+    "counselor_contact": "+1-800-555-6666",
+    "service_price_range": "$50 - $120 per session",
+    "service_duration": "1-2 hours",
+    "service_img": "https://i.ibb.co/sRBzdWp/coaching-2.jpg"
+  }
