@@ -1,0 +1,27 @@
+{
+    "id": 4,
+    "service_name": "Study Abroad and Visa Counseling",
+    "description": "Our Study Abroad and Visa Counseling service helps aspiring students and professionals explore international opportunities. From selecting the right study destination to navigating complex visa procedures, we offer end-to-end guidance. Our experienced counselors provide insights into the best institutions, scholarship options, and cultural nuances, ensuring a smooth transition abroad. Additionally, we assist in preparing visa documents, interview preparation, and finding suitable accommodations in your chosen country.",
+    "features": [
+      "Study Destination Selection",
+      "Visa Application Guidance",
+      "Scholarship Assistance",
+      "Accommodation Support"
+    ],
+    "categories": [
+      "International Education",
+      "Immigration Services",
+      "Cultural Transition"
+    ],
+    "benefits": [
+      "Maximize your chances of securing admission and scholarships.",
+      "Streamline the visa process with expert help.",
+      "Receive support for adapting to a new country."
+    ],
+    "counselor_name": "Emma Davis",
+    "counselor_id": "SAV-004",
+    "counselor_contact": "+1-800-444-5555",
+    "service_price_range": "$150 - $300",
+    "service_duration": "Varies by case",
+    "service_img": "https://i.ibb.co/fGpgGfW/visa-16-370x300.jpg"
+  }
