@@ -13,7 +13,7 @@
     "counselor_contact": "+1-800-111-2222",
     "service_price_range": "$50 - $100 per session",
     "service_duration": "1-2 hours",
-    "service_img": "https://i.ibb.co.com/XjZRzMR/coaching-1.jpg"
+    "service_img": "https://i.ibb.co/XjZRzMR/coaching-1.jpg"
   },
   {
     "id": 2,
@@ -29,7 +29,7 @@
     "counselor_contact": "+1-800-222-3333",
     "service_price_range": "$75 - $150 per session",
     "service_duration": "1 hour",
-    "service_img": "https://i.ibb.co.com/R2LR0QQ/coaching-3.jpg"
+    "service_img": "https://i.ibb.co/R2LR0QQ/coaching-3.jpg"
   },
   {
     "id": 3,
@@ -45,7 +45,7 @@
     "counselor_contact": "+1-800-333-4444",
     "service_price_range": "$100 - $200 per session",
     "service_duration": "2-3 hours",
-    "service_img": "https://i.ibb.co.com/pj0SNcG/visa-14-370x300.jpg"
+    "service_img": "https://i.ibb.co/pj0SNcG/visa-14-370x300.jpg"
   },
   {
     "id": 4,
@@ -61,7 +61,7 @@
     "counselor_contact": "+1-800-444-5555",
     "service_price_range": "$150 - $300",
     "service_duration": "Varies by case",
-    "service_img": "https://i.ibb.co.com/fGpgGfW/visa-16-370x300.jpg"
+    "service_img": "https://i.ibb.co/fGpgGfW/visa-16-370x300.jpg"
   },
   {
     "id": 5,
@@ -77,7 +77,7 @@
     "counselor_contact": "+1-800-555-6666",
     "service_price_range": "$50 - $120 per session",
     "service_duration": "1-2 hours",
-    "service_img": "https://i.ibb.co.com/sRBzdWp/coaching-2.jpg"
+    "service_img": "https://i.ibb.co/sRBzdWp/coaching-2.jpg"
   },
   {
     "id": 6,
@@ -93,6 +93,6 @@
     "counselor_contact": "+1-800-666-7777",
     "service_price_range": "$100 - $250 per workshop",
     "service_duration": "3-4 hours",
-    "service_img": "https://i.ibb.co.com/ZBhynq6/visa-15-370x300.jpg"
-  },
+    "service_img": "https://i.ibb.co/ZBhynq6/visa-15-370x300.jpg"
+  }
 ]
