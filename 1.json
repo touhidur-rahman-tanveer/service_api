@@ -1,0 +1,27 @@
+{
+    "id": 1,
+    "service_name": "Career Planning Services",
+    "description": "Our Career Planning Services are designed to help individuals of all ages and backgrounds create a clear roadmap for achieving their professional goals. Whether you're a student deciding on your future path, a mid-career professional seeking growth, or someone looking to transition into a new field, we provide personalized guidance. This service includes comprehensive skill assessments, one-on-one counseling, and actionable steps tailored to your unique needs. Our counselors also provide insights into trending career opportunities and potential challenges, empowering you to make informed decisions.",
+    "features": [
+      "Skill Assessment and Profiling",
+      "Short-Term and Long-Term Career Planning",
+      "Goal Setting and Strategy Development",
+      "Career Pathway Visualization"
+    ],
+    "categories": [
+      "Professional Growth",
+      "Career Transition",
+      "Personal Development"
+    ],
+    "benefits": [
+      "Get clarity on career goals and directions.",
+      "Receive personalized guidance based on your strengths.",
+      "Develop a step-by-step plan for achieving career success."
+    ],
+    "counselor_name": "Alice Johnson",
+    "counselor_id": "CP-001",
+    "counselor_contact": "+1-800-111-2222",
+    "service_price_range": "$50 - $100 per session",
+    "service_duration": "1-2 hours",
+    "service_img": "https://i.ibb.co/XjZRzMR/coaching-1.jpg"
+  }
